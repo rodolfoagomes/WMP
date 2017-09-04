@@ -8,7 +8,7 @@ public class BasicController {
 	
 	@RequestMapping("/test")
 	String home(){
-		return "Hello, worldee.wwss..";		
+		return "Greatwww.... vixiii";		
 	}
 
 }
